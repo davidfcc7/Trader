@@ -1,0 +1,2 @@
+# Trader
+pagina de trader
